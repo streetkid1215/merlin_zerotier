@@ -17,4 +17,4 @@ FULL_TUNNEL="no"
 # -----------------------------------------
 # route for this LAN
 #echo "zt iptables:"
-baseZTRoute "10.147.17.0/24"
+baseZTRoute "192.168.192.0/24"
